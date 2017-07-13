@@ -1,6 +1,7 @@
 ## Simple Javascript Calculator
 
 Made with,
+
     - jQuery
     - Big.js
     - Bootstrap
