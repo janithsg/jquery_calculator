@@ -1,1 +1,1 @@
-# jquery_calculator
+Simple Calculator made with HTML
