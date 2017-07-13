@@ -12,5 +12,7 @@ Made with,
 - Supports for continuos calculations.
 
     Site has hosted here,
-          <a href="jquerycalculator.site11.com">Goto Site</a>
+    <a href="jquerycalculator.site11.com">Goto Site</a>
+    
+          
          
