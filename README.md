@@ -10,3 +10,7 @@ Made with,
 ## Features
 - Can complete basic calculation tasks.
 - Supports for continuos calculations.
+
+    Site has hosted here,
+          jquerycalculator.site11.com
+         
